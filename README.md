@@ -1,5 +1,5 @@
-コードよりもイラストを描いてるかもです。
-でもやっぱ仕事を含めるとコードの方が書いてるか。
+コードよりもイラストを描いてるかもです.  
+
 
 <!---
 SakuraWine/SakuraWine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
